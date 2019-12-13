@@ -24,7 +24,7 @@ Op de pagina's van [Marp core][marp-core], [Marp for VSCode][marp-code] en [Marp
 - **VSCode**: VSCode is een zeer gebruiksvriendelijke, snelle en veelzijdige code-editor. Het ondersteunt vele extensions waarmee in meerdere programeertalen ontwikkeld kan worden. Zo installeerde ik VSCode en gebruikte ik de extension for Marp.
 - **Markdown**: Markdown gebruikt een zeer simpele syntax om bestanden te maken die automatisch omgezet kunnen worden naar tekst met layout, net zoals deze `README.md`. Ik leerde hiermee werken om Marp slides en dit bestand te maken.
 - **CSS**: Marp slides worden stijlgegeven met CSS. Door veel trial & error heb ik mijn CSS kennis toegepast en ontdekt dat het voor meer gebruikt wordt dan enkel websites.
-- **LaTeX**: LaTeX is een taal om uitgebreide wiskundige formules in digitale documenten te renderen. Hier werkte ik ook voor de eerste keer mee, maar het werd als snel duidelijk dat dit zeer gebruiksvriendelijk is. Het renderen van wiskunde formules was eerlijk gezegd ook niet iets waar ik meteen bij stilstond als een IT-gerelateerd probleem.
+- **LaTeX**: LaTeX is een taal om uitgebreide wiskundige formules in digitale documenten te renderen. Hier werkte ik ook voor de eerste keer mee, maar het werd als snel duidelijk dat LaTeX zeer krachtig is. Het renderen van wiskunde formules was eerlijk gezegd ook niet iets waar ik meteen bij stilstond als een IT-gerelateerd probleem.
 
 ## Wat was er moeilijk
 
@@ -35,5 +35,5 @@ Op de pagina's van [Marp core][marp-core], [Marp for VSCode][marp-code] en [Marp
 
 - **Marp framework & Markdown -> Documenteren & GitHub**: Door het Marp framework heb ik nu een snelle en innovatieve manier om in de toekomst slides te maken voor presentaties. Hierbij komt nog dat mijn opgedane kennis van Markdown goed van pas zal komen bij het aanmaken van documentatie en `README.md`-bestanden op GitHub.
 - **CSS -> Webdesign**: Door intensief bezig te zijn met de stijlgeving zit CSS weer wat meer in mijn vingers.
-- **LaTeX -> Vakken binnen BI / AI**: Ik ben er zeker van dat binnen de vakken BI die komen er wiskundige formules opduiken. In dat geval zal het handig zijn om zelf ook formules in mijn documenten te kunnen plaatsen.
+- **LaTeX -> Vakken binnen BI / AI**: Ik ben er zeker van dat er wiskundige formules opduiken binnen de vakken BI die komen. In dat geval zal het handig zijn om zelf ook formules in mijn documenten te kunnen plaatsen.
 - **VSCode -> Programmeren in het algemeen**: Werken met VSCode was een zeer aangename ervaring. Het zal waarschijnlijk mijn favoriete ontwikkelomgeving worden voor een groot aantal programeertalen.
