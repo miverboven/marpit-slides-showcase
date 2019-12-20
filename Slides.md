@@ -55,7 +55,7 @@ _footer: Michiel Verboven ![h:37.625 w:88.625](https://associatie.kuleuven.be/lo
 - Download *Visual Studio Code*, and install
 - In VSCode, add the **Marp for VSCode** extension
     - Click the square-icon on the left
-    - Search for PowerShell
+    - Search for Marp
     - Install the extension made by Marp team
     - Click the blue “Reload” button that replaces “Install” ⚠️
 

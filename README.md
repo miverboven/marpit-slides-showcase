@@ -24,7 +24,7 @@ Op de pagina's van [Marp core][marp-core], [Marp for VSCode][marp-code] en [Marp
 - **VSCode**: VSCode is een zeer gebruiksvriendelijke, snelle en veelzijdige code-editor. Het ondersteunt vele extensions waarmee in meerdere programeertalen ontwikkeld kan worden. Zo installeerde ik VSCode en gebruikte ik de extension for Marp.
 - **Markdown**: Markdown gebruikt een zeer simpele syntax om bestanden te maken die automatisch omgezet kunnen worden naar tekst met layout, net zoals deze `README.md`. Ik leerde hiermee werken om Marp slides en dit bestand te maken.
 - **CSS**: Marp slides worden stijlgegeven met CSS. Door veel trial & error heb ik mijn CSS kennis toegepast en ontdekt dat het voor meer gebruikt wordt dan enkel websites.
-- **LaTeX**: LaTeX is een taal om uitgebreide wiskundige formules in digitale documenten te renderen. Hier werkte ik ook voor de eerste keer mee, maar het werd als snel duidelijk dat LaTeX zeer krachtig is. Het renderen van wiskunde formules was eerlijk gezegd ook niet iets waar ik meteen bij stilstond als een IT-gerelateerd probleem.
+- **LaTeX**: LaTeX is een taal om uitgebreide wiskundige formules in digitale documenten te renderen. Hier werkte ik ook voor de eerste keer mee, maar het werd al snel duidelijk dat LaTeX zeer krachtig is. Het renderen van wiskundige formules was eerlijk gezegd ook niet iets waar ik meteen bij stilstond als een IT-gerelateerd probleem.
 
 ## Wat was er moeilijk
 
